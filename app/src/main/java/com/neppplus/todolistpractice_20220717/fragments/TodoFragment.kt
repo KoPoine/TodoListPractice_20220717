@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.neppplus.todolistpractice_20220717.R
-import com.neppplus.todolistpractice_20220717.adapters.TodoListAdapter
 import com.neppplus.todolistpractice_20220717.datas.TodoData
 import kotlinx.android.synthetic.main.fragment_todo.*
 
