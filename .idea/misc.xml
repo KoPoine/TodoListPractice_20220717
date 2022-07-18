@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/layout/fragment_goal.xml" value="0.36614583333333334" />
+        <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/layout/fragment_setting.xml" value="0.36614583333333334" />
         <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/layout/fragment_todo.xml" value="0.36614583333333334" />
         <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/layout/todo_list_item.xml" value="0.33" />
         <entry key="..\:/KMC/AndroidStudioProjects/TodoListPractice_20220717/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36614583333333334" />
